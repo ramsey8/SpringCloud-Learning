@@ -1,6 +1,6 @@
-package com.didispace;
+package com.rose;
 
-import com.didispace.web.ComputeController;
+import com.rose.web.ComputeController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
